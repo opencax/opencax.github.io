@@ -8,3 +8,4 @@ Lead by the BRL-CAD project the following open source projects are applying to t
 | [Homepage](https://brlcad.org/) | [Homepage](https://www.freecadweb.org/) | [Homepage](https://librecad.org/) | [Homepage](https://www.openscad.org/) | [Homepage](https://slic3r.org/) |
 
 * [Checklist](checklist.html)
+* [Guidelines](gsoc_guidelines.html)
