@@ -1,3 +1,3 @@
 # Google Summer of Code
 
-* [Checklist](checklist.md)
+* [Checklist](checklist.html)
