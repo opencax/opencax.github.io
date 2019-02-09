@@ -4,7 +4,7 @@
 
 1. Check out our [Project Ideas](https://github.com/opencax/GSoC/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-asc)
 2. Introduce yourself! Don't be shy. See IRC if you've never used it before. Ask specific questions and wait! Web interface here.
-3. Begin your application, see our guidelines
+3. Begin your application, see our [guidelines](gsoc_guidelines.html)
 4. Discuss and share your project details (don't wait!)
 6. See some examples of awesome proposals, add detail to yours :)
 7. Submit your application!
