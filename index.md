@@ -9,3 +9,4 @@ Lead by the BRL-CAD project the following open source projects are applying to t
 
 * [Checklist](checklist.html)
 * [Guidelines](gsoc_guidelines.html)
+* [Acceptance Requirements](gsoc_acceptance.html)
