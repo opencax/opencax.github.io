@@ -1,6 +1,6 @@
 # Google Summer of Code
 
-Lead by the BRL-CAD project the following open source projects are applying to the GSoC 2021.
+Lead by the BRL-CAD project the following open source projects are applying to the [GSoC 2021](https://developers.google.com/open-source/gsoc/).
 
 | BRL-CAD | FreeCAD | IfcOpenShell | OpenSCAD | Slic3r |
 |:-------:|:-------:|:--------:|:--------:|:--------:|:------:|
@@ -8,6 +8,9 @@ Lead by the BRL-CAD project the following open source projects are applying to t
 | [Homepage](https://brlcad.org/) | [Homepage](https://www.freecadweb.org/) | [Homepage](http://www.ifcopenshell.org/) | [Homepage](https://www.openscad.org/) | [Homepage](https://slic3r.org/) |
 | [IRC](https://webchat.freenode.net/?channels=brlcad) | [IRC](https://webchat.freenode.net/?channels=freecad) | - | [IRC](https://webchat.freenode.net/?channels=openscad) | [IRC](https://webchat.freenode.net/?channels=slic3r) |
 
+## GSoC
+* [Timeline](https://developers.google.com/open-source/gsoc/timeline)
+* [Student Participant Agreement](https://summerofcode.withgoogle.com/terms/student)
 
 ## The process
 
