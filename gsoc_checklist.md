@@ -31,4 +31,4 @@
 3. Provide a midterm report on your project progress to the mailing list as well as posting it to your blog or wiki log.
 4. Stay motivated, engage other devs, allocate time for discussions
 5. Provide a final report on your project progress to the mailing list
-6. Keep working on BRL-CAD, OpenSCAD, LibreCAD, FreeCAD, Slic3r, or STEPcode :-)
+6. Keep working on the project you have selected :-)
