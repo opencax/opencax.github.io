@@ -3,7 +3,7 @@
 This lays out the basic "rules and requirements" that our organizations
 require of all Summer of Code (whether GSoC or SOCIS) participants whose
 project proposals are accepted. Unless otherwise arranged with the
-organization administrator (contact 'brlcad' via IRC on irc.freenode.net),
+organization administrator (contact 'brlcad' via IRC on irc.libera.chat),
 it will be expected that all students will comply with the requirements
 outlined below.
 
