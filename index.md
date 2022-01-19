@@ -11,7 +11,7 @@ Lead by the BRL-CAD project the following open source projects are applying to t
 |:-------:|:-------:|:--------:|:--------:|:--------:|
 | ![KiCad Logo](assets/logos/kicad_64.png) | ![LibreCAD Logo](assets/logos/librecad_64.png) | ![OpenSCAD Logo](assets/logos/openscad_64.png) |
 | [Homepage](https://www.kicad.org/) | [Homepage](https://www.librecad.org/) | [Homepage](https://www.openscad.org/) |
-| | [IRC](https://web.libera.chat/?channel=#librecad) | [IRC](https://web.libera.chat/?channel=#openscad) |
+| [Mail](mailto:gsoc@kicad.org) | [IRC](https://web.libera.chat/?channel=#librecad) | [IRC](https://web.libera.chat/?channel=#openscad) |
 
 ## GSoC
 * [Timeline](https://developers.google.com/open-source/gsoc/timeline)
