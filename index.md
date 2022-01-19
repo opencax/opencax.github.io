@@ -7,6 +7,7 @@ Lead by the BRL-CAD project the following open source projects are applying to t
 | ![BRL-CAD Logo](assets/logos/brlcad_64.png) | ![FreeCAD Logo](assets/logos/freecad_64.png) | ![IfcOpenShell Logo](assets/logos/ifcopenshell_64.png)
 | [Homepage](https://brlcad.org/) | [Homepage](https://www.freecadweb.org/) | [Homepage](http://www.ifcopenshell.org/)
 | [IRC](https://web.libera.chat/?channel=#brlcad) / [Zulip](https://brlcad.zulipchat.com/#) | [IRC](https://web.libera.chat/?channel=#freecad) | [Forum](https://sourceforge.net/p/ifcopenshell/discussion/)
+
 | KiCad | LibreCAD | OpenSCAD |
 |:-------:|:-------:|:--------:|:--------:|:--------:|
 | ![KiCad Logo](assets/logos/kicad_64.png) | ![LibreCAD Logo](assets/logos/librecad_64.png) | ![OpenSCAD Logo](assets/logos/openscad_64.png) |
