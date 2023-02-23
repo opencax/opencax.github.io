@@ -6,7 +6,7 @@ Lead by the BRL-CAD project the following open source projects are applying to t
 |:-------:|:-------:|:--------:|:--------:|:--------:|
 | ![BRL-CAD Logo](assets/logos/brlcad_64.png) | ![OpenSCAD Logo](assets/logos/openscad_64.png) | ![IfcOpenShell Logo](assets/logos/ifcopenshell_64.png)
 | [Homepage](https://brlcad.org/) | [Homepage](https://www.openscad.org/) | [Homepage](http://www.ifcopenshell.org/)
-| [IRC](https://web.libera.chat/?channel=#brlcad) / [ZulipChat](https://brlcad.zulipchat.com/#) | [IRC](https://web.libera.chat/?channel=#openscad) | )
+| [IRC](https://web.libera.chat/?channel=#brlcad) / [ZulipChat](https://brlcad.zulipchat.com/#) | [IRC](https://web.libera.chat/?channel=#openscad) | [Forum](https://github.com/IfcOpenShell/IfcOpenShell/discussions) |
 
 | KiCad | LibreCAD | Appleseed |
 |:-------:|:-------:|:--------:|:--------:|:--------:|
