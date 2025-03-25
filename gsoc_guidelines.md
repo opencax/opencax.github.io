@@ -36,7 +36,7 @@ feedback in advance.
   is never a substitute for competence, but vastly helps your chances
   all other factors being equal.
 
-## Don'ts
+## Dont's
 
 * Don't copy/paste. If all you have to say about the project idea is
   what we wrote, it will be rejected. They are just meant to be starting
